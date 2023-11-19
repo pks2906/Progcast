@@ -1,4 +1,4 @@
-# Multi-Organ Dysfunction Syndrome (MODS) Dataset on GitHub
+# Multi-Organ Dysfunction Syndrome (MODS) Prognosis Dataset on GitHub
 
 ## Introduction
 
