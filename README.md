@@ -26,9 +26,22 @@ Random forest, an ensemble machine learning algorithm, is employed to improve th
 
 The MODS dataset includes many variables, making it challenging to visualize and interpret the relationships between these variables. We utilize Seaborn, a data visualization library built on top of Matplotlib to address this challenge. Seaborn provides a powerful tool for creating informative and aesthetically pleasing heatmaps that represent the voids in the dataset. Heatmaps allow us to quickly identify patterns and associations within the data, facilitating a deeper understanding of the complex relationships between variables.
 
-## Accuracy Before and After
+## Precision and Accuracy
 
-The accuracy of MODS prognosis prediction is evaluated using various metrics such as AUC (Area Under the Curve) and F1 score. Initially, using logistic regression, the accuracy was approximately 67%. After applying random forest, the accuracy improved significantly to over 80%, demonstrating the effectiveness of ensemble machine-learning techniques. This improvement in accuracy highlights the potential of machine learning to enhance prognosis prediction and contribute to better patient outcomes.
+1) The precision is the fraction of positives that were correctly identified. In this case, 100% of the positives were correctly identified as positives (precision of 1.00 
+   for class N and 0.75 for class Y).
+
+2) The recall is the fraction of positives that were found. In this case, 50% of the positives were found (recall of 0.50 for class N and 1.00 for class Y).
+
+3) The f1-score is a measure of the balance between precision and recall. It is the harmonic mean of precision and recall, which means that it takes both precision and 
+   recall into account. In this case, the f1-score is 0.67 for class N and 0.86 for class Y.
+
+4) The accuracy is the fraction of all predictions that were correct. In this case, 80% of the predictions were correct.
+
+5) The macro average precision, recall, and f1-score are the unweighted averages of the precision, recall, and f1-score for each class. In this case, the macro average 
+   precision is 0.875, the macro average recall is 0.75, and the macro average f1-score is 0.8077.
+
+6) The weighted average precision, recall, and f1-score are the weighted averages of the precision, recall, and f1-score for each class, where the 
 
 ## Summary
 
