@@ -29,7 +29,8 @@ The MODS dataset includes many variables, making it challenging to visualize and
 
 ![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) 
 
-![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c1bba7f3-fb01-4850-9f79-54bc04bd7d48)
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/cf1dc255-ffea-4b30-96a3-96aaa1354e32)
+
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
 
