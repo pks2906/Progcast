@@ -22,9 +22,26 @@ Logistic regression is a statistical method that models the probability of a pat
 
 Random forest, an ensemble machine learning algorithm, is employed to improve the accuracy of MODS prognosis prediction. Random forest combines multiple decision trees to generate a more robust and reliable prediction model. By combining the strengths of individual decision trees, random forest reduces the risk of overfitting and improves the overall prediction performance.
 
-### Data Visualization: Heatmaps using Seaborn
+
+### Data Visualization: Heatmaps
 
 The MODS dataset includes many variables, making it challenging to visualize and interpret the relationships between these variables. We utilize Seaborn, a data visualization library built on top of Matplotlib to address this challenge. Seaborn provides a powerful tool for creating informative and aesthetically pleasing heatmaps that represent the voids in the dataset. Heatmaps allow us to quickly identify patterns and associations within the data, facilitating a deeper understanding of the complex relationships between variables.
+
+![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) , ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c1bba7f3-fb01-4850-9f79-54bc04bd7d48), ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
+
+ Pie Chart
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/2beda42f-6d61-44b3-ae0a-b22db5126033)
+
+Confusion Matrices
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/6ab37d68-7a01-4ffa-b22a-7b23aee7e6c1), ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c23e56f7-d54d-4969-b472-65ab5ee82f16)
+
+
+
+
+
+
 
 ## Precision and Accuracy
 
@@ -41,7 +58,10 @@ The MODS dataset includes many variables, making it challenging to visualize and
 5) The macro average precision, recall, and f1-score are the unweighted averages of the precision, recall, and f1-score for each class. In this case, the macro average 
    precision is 0.875, the macro average recall is 0.75, and the macro average f1-score is 0.8077.
 
-6) The weighted average precision, recall, and f1-score are the weighted averages of the precision, recall, and f1-score for each class, where the 
+6) The weighted average precision, recall, and f1-score are the weighted averages of the precision, recall, and f1-score for each class.
+
+   ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/27f9720c-df95-4d7d-8470-764682e4e330)
+
 
 ## Summary
 
