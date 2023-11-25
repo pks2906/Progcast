@@ -40,16 +40,16 @@ After using the Interpolation method Heat map representation
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
 
-Variance ratio vs. no. of components 
+### Variance ratio vs. no. of components 
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/6f60fb33-b5a6-4297-b8ce-905f51af65a3)
 
 
- Pie Chart
+### Pie Chart
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/2beda42f-6d61-44b3-ae0a-b22db5126033)
 
-Confusion Matrices
+### Confusion Matrices
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/6ab37d68-7a01-4ffa-b22a-7b23aee7e6c1), ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c23e56f7-d54d-4969-b472-65ab5ee82f16)
 
