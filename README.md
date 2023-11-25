@@ -14,7 +14,7 @@ Machine learning algorithms have proven to be powerful tools for analyzing compl
 
 ### Data Preprocessing: Handling Missing Values
 
-Missing values are a common challenge in medical datasets. To address this issue, we employ interpolation techniques such as spline interpolation and nearest neighbour interpolation. These techniques estimate missing values based on the available data, ensuring complete and consistent data for further analysis.
+Missing values are a common challenge in medical datasets. To address this issue, we employ interpolation techniques such as spline interpolation and nearest neighbor interpolation. These techniques estimate missing values based on the available data, ensuring complete and consistent data for further analysis.
 
 ### Prognosis Prediction: Logistic Regression and Random Forest
 
@@ -27,7 +27,16 @@ Random forest, an ensemble machine learning algorithm, is employed to improve th
 
 The MODS dataset includes many variables, making it challenging to visualize and interpret the relationships between these variables. We utilize Seaborn, a data visualization library built on top of Matplotlib to address this challenge. Seaborn provides a powerful tool for creating informative and aesthetically pleasing heatmaps that represent the voids in the dataset. Heatmaps allow us to quickly identify patterns and associations within the data, facilitating a deeper understanding of the complex relationships between variables.
 
-![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) , ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c1bba7f3-fb01-4850-9f79-54bc04bd7d48), ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
+![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) 
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/c1bba7f3-fb01-4850-9f79-54bc04bd7d48)
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
+
+Variance ratio vs. no. of components 
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/6f60fb33-b5a6-4297-b8ce-905f51af65a3)
+
 
  Pie Chart
 
