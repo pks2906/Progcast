@@ -27,11 +27,15 @@ Random forest, an ensemble machine learning algorithm, is employed to improve th
 
 The MODS dataset includes many variables, making it challenging to visualize and interpret the relationships between these variables. We utilize Seaborn, a data visualization library built on top of Matplotlib to address this challenge. Seaborn provides a powerful tool for creating informative and aesthetically pleasing heatmaps that represent the voids in the dataset. Heatmaps allow us to quickly identify patterns and associations within the data, facilitating a deeper understanding of the complex relationships between variables.
 
+Heat map representation of data with missing values
+
 ![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) 
 
-After using Interpolation method
+After using the Interpolation method Heat map representation
 
-![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/cf1dc255-ffea-4b30-96a3-96aaa1354e32)
+
+
+![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/cf1dc255-ffea-4b30-96a3-96aaa1354e32) 
 
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
@@ -70,7 +74,7 @@ Confusion Matrices
 5) The macro average precision, recall, and f1-score are the unweighted averages of the precision, recall, and f1-score for each class. In this case, the macro average 
    precision is 0.875, the macro average recall is 0.75, and the macro average f1-score is 0.8077.
 
-6) The weighted average precision, recall, and f1-score are the weighted averages of the precision, recall, and f1-score for each class.
+6) The weighted average precision, recall, and f1-score are the weighted averages of the precision, recall, and f1-score for each class where the weights are the support for each class. In this case, the weighted average precision is 0.85, the weighted average recall is 0.80, and the weighted average f1-score is 0.8242.
 
    ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/27f9720c-df95-4d7d-8470-764682e4e330)
 
