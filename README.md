@@ -38,11 +38,6 @@ After using the Interpolation method Heat map representation
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/cf1dc255-ffea-4b30-96a3-96aaa1354e32) 
 
 
-![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
-
-
-
-
 ### Pie Chart
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/2beda42f-6d61-44b3-ae0a-b22db5126033)
