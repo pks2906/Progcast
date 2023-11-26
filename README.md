@@ -40,9 +40,7 @@ After using the Interpolation method Heat map representation
 
 ![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/782f1005-8421-4937-b380-e877aec306c1)
 
-### Variance ratio vs. no. of components 
 
-![image](https://github.com/Prog-cast/MOD-dataset/assets/91456061/6f60fb33-b5a6-4297-b8ce-905f51af65a3)
 
 
 ### Pie Chart
