@@ -14,7 +14,7 @@ Machine learning algorithms have proven to be powerful tools for analyzing compl
 
 ### Data Preprocessing: Handling Missing Values
 
-Missing values are a common challenge in medical datasets. To address this issue, we employ interpolation techniques such as spline interpolation and nearest neighbor interpolation. These techniques estimate missing values based on the available data, ensuring complete and consistent data for further analysis.
+Missing values are a common challenge in medical datasets. To address this issue, we employ interpolation techniques such as spline interpolation and nearest neighbour interpolation. These techniques estimate missing values based on the available data, ensuring complete and consistent data for further analysis.
 
 ### Prognosis Prediction: Logistic Regression and Random Forest
 
@@ -31,7 +31,7 @@ Heat map representation of data with missing values
 
 ![download (3)](https://github.com/Prog-cast/MOD-dataset/assets/91456061/191ac769-0332-48d7-90f3-8fed63a9f1a2) 
 
-After using the Interpolation method Heat map representation
+After using the Interpolation method Heat Map representation
 
 
 
@@ -62,7 +62,7 @@ After using the Interpolation method Heat map representation
 3) The f1-score is a measure of the balance between precision and recall. It is the harmonic mean of precision and recall, which means that it takes both precision and 
    recall into account. In this case, the f1-score is 0.67 for class N and 0.86 for class Y.
 
-4) The accuracy is the fraction of all predictions that were correct. In this case, 80% of the predictions were correct.
+4) The accuracy is the fraction of all correct predictions. In this case, 80% of the predictions were correct.
 
 5) The macro average precision, recall, and f1-score are the unweighted averages of the precision, recall, and f1-score for each class. In this case, the macro average 
    precision is 0.875, the macro average recall is 0.75, and the macro average f1-score is 0.8077.
